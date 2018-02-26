@@ -1,11 +1,11 @@
 [
   {
-    name: 'sum()'
+    "name": "sum()"
   },
   {
-    name: 'volumn()'
+    "name": "volumn()"
   },
   {
-    name: 'classes'
+    "name": "classes"
   }
 ]
